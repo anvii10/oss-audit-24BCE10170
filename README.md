@@ -3,7 +3,7 @@
 
 ## Student Details
 Name: Anvi  
-Registration Number: [Your Registration Number]  
+Registration Number: 24BCE10170
 Course: Open Source Software  
 
 ---
