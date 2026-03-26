@@ -3,7 +3,7 @@
 
 ## Student Details
 Name: Anvi  
-Registration Number:24BCE10170   
+Registration Number: 24BCE10170   
 Course: Open Source Software  
 
 ---
