@@ -1,5 +1,5 @@
 # oss-audit-24BCE10170
-# Open Source Audit Project
+## Open Source Audit Project
 
 ## Student Details
 Name: Anvi  
@@ -15,6 +15,7 @@ Git — A distributed version control system used for tracking changes in source
 
 ## Project Overview
 This project is an Open Source Audit of Git. It explores the origin, philosophy, licensing, ethical aspects, and role of Git in the Linux ecosystem. The project also includes practical implementation through shell scripting to demonstrate fundamental Linux concepts.
+The project is executed completely using command-line tools in a Linux environment without any GUI dependency.
 
 ---
 
